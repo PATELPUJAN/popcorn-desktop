@@ -7747,10 +7747,10 @@ videojs-swf@4.7.5:
   resolved "https://registry.yarnpkg.com/videojs-swf/-/videojs-swf-4.7.5.tgz#50f9f647dc5907e6d1154c559f7286ccd8b4b6c8"
   integrity sha1-UPn2R9xZB+bRFUxVn3KGzNi0tsg=
 
-videojs-youtube@1.2.10:
-  version "1.2.10"
-  resolved "https://registry.yarnpkg.com/videojs-youtube/-/videojs-youtube-1.2.10.tgz#06febd46ab8fbb2a78d00c270b8bd94e13054bf5"
-  integrity sha1-Bv69RquPuyp40AwnC4vZThMFS/U=
+videojs-youtube@1.2.13:
+  version "1.2.13"
+  resolved "https://registry.yarnpkg.com/videojs-youtube/-/videojs-youtube-1.2.13.tgz#530aa80bde6605bb7254f034dd4e7243e0467711"
+  integrity sha512-BPOMHv/SxX15SawnlABkWqzwlQ2OjPH4lEAWDQTsr6ucFYaQ5FFMuSF5llCC8byXM6thT0yRB/7+hFadJMAXng==
   dependencies:
     video.js "^4.12.5"
 
