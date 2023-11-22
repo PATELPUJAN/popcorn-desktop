@@ -1382,15 +1382,15 @@ chrome-net@^3.3.2, chrome-net@^3.3.4:
   dependencies:
     inherits "^2.0.1"
 
-chromecast-api@0.3.4:
-  version "0.3.4"
-  resolved "https://registry.yarnpkg.com/chromecast-api/-/chromecast-api-0.3.4.tgz#7c4a30f29dc8a76aa725da893c926dcfb616d647"
-  integrity sha512-b7+qyms+78cRMUiygPW/x8E5SL3gFRycmZDO5JWKYp0NS3wY4S620j0Xo6oQumQFMKUEvnVlEIPqPcDwzlam3A==
+chromecast-api@0.4.2:
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/chromecast-api/-/chromecast-api-0.4.2.tgz#1ea451c14337f346682cb463bf75899cb351e9bf"
+  integrity sha512-Z5jgsvcQuDK6CS9MJX9RmXACpl8aa2ai2ASdgRLoB2C2CSzBn9Wwf/+TXGVCa36AjBmBsYzAomuc5td03ZmPjg==
   dependencies:
     castv2-client "1.2.0"
     debug "^4.1.1"
     dns-txt "^2.0.2"
-    mime "^2.3.1"
+    mime "^3.0.0"
     multicast-dns "^7.2.0"
     node-ssdp "^4.0.0"
     xml2js "^0.4.23"
@@ -4793,11 +4793,6 @@ mime@1.6.0, mime@^1.3.4:
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/mime/-/mime-1.6.0.tgz#32cd9e5c64553bd58d19a568af452acff04981b1"
   integrity sha512-x0Vn8spI+wuJ1O6S7gnbaQg8Pxh4NNHb7KSINmEWKiPE4RKOplvijn+NkmYmmRgP68mc70j2EbeTFRsrswaQeg==
-
-mime@^2.3.1:
-  version "2.5.2"
-  resolved "https://registry.yarnpkg.com/mime/-/mime-2.5.2.tgz#6e3dc6cc2b9510643830e5f19d5cb753da5eeabe"
-  integrity sha512-tqkh47FzKeCPD2PUiPB6pkbMzsCasjxAfC62/Wap5qrUWcb+sFasXUC5I3gYM5iBM8v/Qpn4UK0x+j0iHyFPDg==
 
 mime@^3.0.0:
   version "3.0.0"
